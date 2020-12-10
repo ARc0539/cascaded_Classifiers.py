@@ -15,6 +15,8 @@ import keras as ks
 import tensorflow as tf
 import pytorch as pt
 import neupy as nup
+import XGBoost as xgb
+import pyCUDA
 from utils import log
 
 ###############################################################
